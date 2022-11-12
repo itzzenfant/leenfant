@@ -11,10 +11,10 @@
     graph TD;
     Dormir-->Coder;
     Coder-->Manger;
-    Manger-->Muscu;
-    Muscu-->DemonSlayer;
-    DemonSlayer-->Muscu;
-    Muscu-->Manger;
+    Manger-->Coder;
+    Coder-->Netflix;
+    Netflix-->Coder;
+    Coder-->Manger;
     Manger-->Coder;
     Coder-->Dormir;
 ```
