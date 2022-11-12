@@ -1,1 +1,4 @@
-# l'enfant#0972
+- Hey 👋 
+- Moi c'est Lucas j'ai 13 ans je suis en 3 eme 🎓
+- Je développe des bot discord java script 🤖
+- Créateur et Administrateur de Creative Commuity : https://discord.gg/FyUWB8UNR8 💻
