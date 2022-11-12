@@ -11,10 +11,10 @@
     graph TD;
     Dormir-->Coder;
     Coder-->Manger;
-    Manger-->ReCoder;
-    Recoder-->Netflix;
-    Netflix-->Recoder;
-    Recoder-->Manger;
+    Manger-->Vélo;
+    Vélo-->Netflix;
+    Netflix-->Vélo;
+    Vélo-->Manger;
     Manger-->Coder;
     Coder-->Dormir;
 ```
