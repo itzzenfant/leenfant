@@ -21,16 +21,11 @@
 
 <h1> Nos réseaux </h1>
 
-<a href="https://discord.gg/sinixdev"><img width="80%" src="https://cdn.discordapp.com/attachments/550812787358826513/1007745469599973548/baniere_sinix_dev_toku.png"></a>
+<a href="https://cdn.discordapp.com/attachments/835539728840785930/1041088062702235809/banniere_creative_v2.png"></a>
 
-    🧪 | discord.gg/sinixdev
+    🧪 | https://discord.gg/FyUWB8UNR8
 <br> 
 
-    🔭 | https://www.youtube.com/channel/UCC-t40pbAhyoXQRoRlczKXg
+    🔭 | https://discord.gg/sinixdev
 
 <br> 
-
-    🗞️ | https://www.tiktok.com/@sinixdevofficiel 
-<br>
-
-    🤖 | https://discord.gg/rHBztbN7tn
