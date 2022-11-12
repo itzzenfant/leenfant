@@ -11,9 +11,9 @@
     graph TD;
     Dormir-->Coder;
     Coder-->Manger;
-    Manger-->Re Coder;
-    Re coder-->Netflix;
-    Netflix-->Re coder;
+    Manger-->ReCoder;
+    Recoder-->Netflix;
+    Netflix-->Recoder;
     Re cpder-->Manger;
     Manger-->Coder;
     Coder-->Dormir;
