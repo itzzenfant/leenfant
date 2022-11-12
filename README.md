@@ -14,7 +14,7 @@
     Manger-->ReCoder;
     Recoder-->Netflix;
     Netflix-->Recoder;
-    Re cpder-->Manger;
+    Recoder-->Manger;
     Manger-->Coder;
     Coder-->Dormir;
 ```
