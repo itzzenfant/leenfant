@@ -1,6 +1,7 @@
 - Hey 👋 Moi c'est Lucas j'ai 14 ans J'apprend a développer ! Donc normal si il y a des erreurs. 😊
 
-<a href="https://cdn.discordapp.com/attachments/1127297681946071110/1146895428307128390/lucas.png"></a>
+![Uploading lucas.png…]()
+
 <br> 
 
 <h1> Statistiques GitHub </h1>
