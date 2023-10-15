@@ -1,4 +1,4 @@
-<img alt="https://github.com/itzzenfant/leenfant/assets/70289221/a727f0cc-7f58-4011-ba68-b2c7c5a2542c"/>
+![Banner Discord](https://github.com/itzzenfant/leenfant/assets/70289221/aaf9cc06-f773-4b6a-913d-94e2244ff22f)
 
 <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Salut moi c'est itzzenfant !</h2>
 
