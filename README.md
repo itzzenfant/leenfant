@@ -53,7 +53,7 @@
 ### 🤝🏻 &nbsp;Rejoin moi
 
 <p align="center">
-  <a href="https://instagram.com/lucas_vnl07"><img src="https://img.shields.io/badge/-@-lucas_vnl07-3423A6?style=flat&logo=Instagram&logoColor=white"/></a>
+  <a href="https://instagram.com/lucas_vnl07"><img src="https://img.shields.io/badge/-@lucas_vnl07__-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
   <a href="discordapp.com/users/1120375061887590460"><img src="https://img.shields.io/badge/-@lucas_vnl07?style=flat&logo=Instagram&logoColor=white"/></a>
   <a href="https://www.adityavsingh.com"><img src="https://img.shields.io/badge/-adityavsingh.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
 </p>
