@@ -53,5 +53,5 @@
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="https://instagram.com/lucas_vnl07"><img src="https://img.shields.io/badge/-@lucas_vnl07/?style=flat&logo=Instagram&logoColor=white"/></a>
+<a href="https://instagram.com/lucas_vnl07"><img src="https://img.shields.io/badge/-@lucas_vnl07?style=flat&logo=Instagram&logoColor=white"/></a>
 </p>
